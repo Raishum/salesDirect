@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/salesDirect/static/css/main.fb54c417.css",
+    "main.js": "/salesDirect/static/js/main.e6e72a7a.js",
+    "static/media/DMSans-Italic.ttf": "/salesDirect/static/media/DMSans-Italic.bfe023d2d0f8f749d319.ttf",
+    "static/media/DMSans-BoldItalic.ttf": "/salesDirect/static/media/DMSans-BoldItalic.4d8bbef07cd86c84abbf.ttf",
+    "static/media/DMSans-Bold.ttf": "/salesDirect/static/media/DMSans-Bold.c423ce2dc1d85bc50799.ttf",
+    "static/media/DMSans-Medium.ttf": "/salesDirect/static/media/DMSans-Medium.150680530af9dd9fd00b.ttf",
+    "static/media/logo.png": "/salesDirect/static/media/logo.c61581e8f6817d157986.png",
+    "index.html": "/salesDirect/index.html",
+    "main.fb54c417.css.map": "/salesDirect/static/css/main.fb54c417.css.map",
+    "main.e6e72a7a.js.map": "/salesDirect/static/js/main.e6e72a7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb54c417.css",
+    "static/js/main.e6e72a7a.js"
+  ]
+}
